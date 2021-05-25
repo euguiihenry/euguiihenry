@@ -8,31 +8,41 @@
 
 <dl>
   <dt>1° Semester:</dt>
-  <dd>- Computer Architecture</dd>
-  <dd>- Introduction to Web Development</dd>
-  <dd>- Innovation and Startup in Information Technology</dd>
-  <dd>- Linear Algebra and Analytical Geometry</dd>
-  <dd>- Programming Languages and Techniques I</dd>
+  <dd>- Computer Architecture.</dd>
+  <dd>- Introduction to Web Development.</dd>
+  <dd>- Innovation and Startup in Information Technology.</dd>
+  <dd>- Linear Algebra and Analytical Geometry.</dd>
+  <dd>- Programming Languages and Techniques I.</dd>
 </dl>
 
 <dl>
   <dt>Languages:</dt>
-  <dd>- English</dd>
-  <dd>- French</dd>
-  <dd>- Portuguese</dd>
-  <dd>- Spanish</dd>
+  <dd>- English.</dd>
+  <dd>- French.</dd>
+  <dd>- Portuguese.</dd>
+  <dd>- Spanish.</dd>
 </dl>
 
 <h2>Past</h2>
+
+<h4>Student Life</h4>
+<dl>
+  <dt>Schools:</dt>
+  <dd>Escola Municipal Doutor José Xavier Nogueira.</dd>
+  <dd>Escola Municipal Mário Mourão Filho.</dd>
+  <dd>Escola Estadual Djanira Rodrigues de Oliveira.</dd>
+</dl>
+
+<dl>
+  <dt>Courses:</dt>
+  <dd>English: Specialize Idiomas.</dd>
+</dl>
+
 <dl>
   <dt>Project: Guilherme Classes</dt>
   <dd>- Project of free english classes for some friends of mine.</dd>
   <dd>- Happened between July to October 2020.</dd>
   <dd>- <a href="https://sites.google.com/view/guilhermeclasses/support-materials?authuser=0">Site</a>
-</dl>
-
-<dl>
-<dt>Student Life</dt> 
 </dl>
 
 <h2>How to Reach me</h2>
