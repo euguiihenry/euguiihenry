@@ -31,7 +31,9 @@
   <dd>- <a href="https://sites.google.com/view/guilhermeclasses/support-materials?authuser=0">Site</a>
 </dl>
 
-<h2>Student Life</h2> 
+<dl>
+<dt>Student Life</dt> 
+</dl>
 
 <h2>How to Reach me</h2>
 <p>You can find me on:</p>
