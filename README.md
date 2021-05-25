@@ -23,16 +23,6 @@
   <dd>- Spanish</dd>
 </dl>
 
-<h2>How to Reach me</h2>
-<p>You can find me on:</p>
-<a href="https://www.instagram.com/euguiihenry/"> - Instagram</a>
-<br>
-<a href="https://www.linkedin.com/in/guilherme-henrique-L/"> - LinkedIn</a>
-<br>
-
-<h2>Student Life</h2> 
-
-
 <h2>Past</h2>
 <dl>
   <dt>Project: Guilherme Classes</dt>
@@ -40,3 +30,16 @@
   <dd>- Happened between July to October 2020.</dd>
   <dd>- <a href="https://sites.google.com/view/guilhermeclasses/support-materials?authuser=0">Site</a>
 </dl>
+
+<h2>Student Life</h2> 
+
+<h2>How to Reach me</h2>
+<p>You can find me on:</p>
+<a href="https://www.instagram.com/euguiihenry/"> - Instagram</a>
+<br>
+<a href="https://www.linkedin.com/in/guilherme-henrique-L/"> - LinkedIn</a>
+<br>
+
+
+
+
