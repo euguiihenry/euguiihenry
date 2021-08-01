@@ -7,12 +7,21 @@
 <h4>University FUMEC</h4>
 
 <dl>
-  <dt>1° Semester:</dt>
+  <dt>1st Semester:</dt>
   <dd>- Computer Architecture.</dd>
   <dd>- Introduction to Web Development.</dd>
   <dd>- Innovation and Startup in Information Technology.</dd>
   <dd>- Linear Algebra and Analytical Geometry.</dd>
   <dd>- Programming Languages and Techniques I.</dd>
+</dl>
+
+<dl>
+  <dt>2nd Semester:</dt>
+  <dd>- Calculus I.</dd>
+  <dd>- Computer Network.</dd>
+  <dd>- Games Development.</dd>
+  <dd>- Introduction to Logical Systems.</dd>
+  <dd>- Programming Languages and Techniques II.</dd>
 </dl>
 
 <dl>
