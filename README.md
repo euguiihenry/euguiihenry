@@ -17,19 +17,17 @@
 
 <dl>
   <dt>Languages:</dt>
-  <dd>- English.</dd>
-  <dd>- French.</dd>
-  <dd>- Portuguese.</dd>
-  <dd>- Spanish.</dd>
+  <dd>- English - B2.</dd>
+  <dd>- French - A0.</dd>
+  <dd>- Portuguese - C2.</dd>
+  <dd>- Spanish - A0.</dd>
 </dl>
 
 <h2>Past</h2>
 
 <h4>Student Life</h4>
 <dl>
-  <dt>Schools:</dt>
-  <dd>Escola Municipal Doutor José Xavier Nogueira.</dd>
-  <dd>Escola Municipal Mário Mourão Filho.</dd>
+  <dt>School:</dt>
   <dd>Escola Estadual Djanira Rodrigues de Oliveira.</dd>
 </dl>
 
