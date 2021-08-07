@@ -49,7 +49,7 @@
   <dt>Project: Guilherme Classes</dt>
   <dd>- Project of free english classes for some friends of mine.</dd>
   <dd>- Happened between July to October 2020.</dd>
-  <dd>- <a href="https://sites.google.com/view/guilhermeclasses/support-materials?authuser=0">Site</a>
+  <dd>- <a href="https://sites.google.com/view/guilhermeclasses/home?authuser=0">Site</a>
 </dl>
 
 <h2>How to Reach me</h2>
