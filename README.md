@@ -7,9 +7,9 @@
 <dl>
   <dt>Languages:</dt>
   <dd>- English - B2.</dd>
-  <dd>- French - A0.</dd>
+  <dd>- French - A1.</dd>
   <dd>- Portuguese - C2.</dd>
-  <dd>- Spanish - A0.</dd>
+  <dd>- Spanish - A1.</dd>
 </dl>
 
 <h2>Past</h2>
