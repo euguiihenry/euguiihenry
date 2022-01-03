@@ -4,6 +4,13 @@
 
 <h2>I'm Currently Learning</h2>
 
+<p>HTML</p>
+<p>CSS</p>
+<p>SCSS</p>
+<p>JavaScript</p>
+<p>Java</p>
+<p>Figma</p>
+
 <dl>
   <dt>Languages:</dt>
   <dd>- English - B2.</dd>
