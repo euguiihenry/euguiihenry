@@ -5,6 +5,8 @@
 - 📝 Studying React & Angular.
 - 😉 Pronouns: he/him.
 
+![](https://komarev.com/ghpvc/?username=euguiihenry&style=flat)
+
 ##
 
 <div align="center">
