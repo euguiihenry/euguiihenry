@@ -1,7 +1,7 @@
 
 ## Hey there! I'm Guilherme Henrique👋
 
-- 💻 Intern in IT support.
+- 💻 Computer Science Student
 - 📝 Studying React & Angular.
 - 😉 Pronouns: he/him.
 
