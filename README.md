@@ -1,8 +1,8 @@
 
 ## Hey there! I'm Guilherme Henrique👋
 
-- 💻 Computer Science Student
-- 📝 Studying React & Angular.
+- 💻 Computer Science Student.
+- 📝 Studying Angular & PHP.
 - 😉 Pronouns: he/him.
 
 ##
